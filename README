@@ -1,0 +1,7 @@
+Intro:
+
+Here, a dataset composed from the passenger list of the last Titanic travel is used to investigate the disaster. The data is cleaned and manipulated in order to investigate the primary descriptions of passengers that best predicted their likelyhood of survival in the accident. using Jupyter Notebook and powerful modules like pandas, numpy, matplotlib and seaborn the data is easily manipulated, edited and the results visualized.
+
+index.html - this is a knitted file containing all information and graphs made during this investigation.
+
+titanic_data.csv - original data acquired from Udacity.
